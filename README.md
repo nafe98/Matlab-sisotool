@@ -2,7 +2,9 @@
 
 
 1.sisotool ----command window
+
 2.sisotool preferencs ---- option--- zero/pole/gain
+
 3.compensator editor ---- add ---- real pole
 
 example:
@@ -16,6 +18,7 @@ Damiping ratio == from calculation
 Natural Frequency == from calculation 
 
 5.Pull "X" so that blue line touches the intersection point
+
 6.pule "O" so that the dot touches the intersection point 
 
 7.Design ---- edit compensator
